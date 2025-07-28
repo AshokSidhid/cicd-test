@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ashoksidhid.github.io/cicd-test",
+  "homepage": "https://ashoksidhid.github.io/cicd-test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
