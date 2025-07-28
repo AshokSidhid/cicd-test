@@ -1,9 +1,9 @@
 {
   "name": "ecommerce",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ashoksidhid.github.io/cicd-test/",
+  "homepage": "https://github.com/AshokSidhid/cicd-test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
